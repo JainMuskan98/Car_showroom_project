@@ -89,7 +89,7 @@ Var ZZ=new Var();
         jPanel1.add(jLabel1);
         jLabel1.setBounds(630, 380, 210, 40);
 
-        image.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageIn.png"))); // NOI18N
+        image.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageDefault.png"))); // NOI18N
         image.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusGained(java.awt.event.FocusEvent evt) {
                 imageFocusGained(evt);
