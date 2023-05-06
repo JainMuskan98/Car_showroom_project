@@ -120,9 +120,9 @@ public class Login_page extends javax.swing.JFrame {
 
         jPanel1.setLayout(null);
 
-        jLabel1.setFont(new java.awt.Font("Ariel", 0, 48)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Ariel", 0, 90)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Login Panel");
+        jLabel1.setText("   BENZ");
         jPanel1.add(jLabel1);
         jLabel1.setBounds(190, 30, 370, 70);
 
@@ -146,7 +146,7 @@ public class Login_page extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Poor Richard", 1, 18)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel5.setText("View Catlog");
+        jLabel5.setText("View Catalog");
         jLabel5.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel5MouseClicked(evt);
@@ -199,7 +199,7 @@ public class Login_page extends javax.swing.JFrame {
         jPanel1.add(jButton1);
         jButton1.setBounds(330, 280, 80, 40);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageLogin.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imageMercedes-Benz AMG G.png"))); // NOI18N
         jPanel1.add(jLabel2);
         jLabel2.setBounds(0, 0, 740, 450);
 
